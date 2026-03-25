@@ -49,7 +49,7 @@ const UserTable = ({ users }) => {
       <table className="w-full min-w-[600px] border-collapse">
 
         <thead>
-          <tr className="bg-gray-200 text-left text-sm md:text-base">
+          <tr className="bg-gray-200 text-center text-sm md:text-base">
             <th className="p-2 md:p-3">Name</th>
             <th className="p-2 md:p-3">Email</th>
             <th className="p-2 md:p-3">Phone</th>
